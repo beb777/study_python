@@ -1,0 +1,12 @@
+x = int(input('enter the first number '))
+y = int(input('enter the second number '))
+z = x+y
+print('adition: ', x+y)
+print('subtraction ', x-y)
+print('multiplication', x*y)
+print('division', x/y)
+print('exponet',x**2)
+print('multiply by two', x*2)
+print('intger division', x//y)
+print('module',x%y)
+print('the square root of x  and y are  ',x**0.5 , 'and ', y**0.5)
