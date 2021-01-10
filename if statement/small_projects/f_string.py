@@ -1,0 +1,8 @@
+my_husband_name = input('name of your husband' )
+my_husband_age = input('age of my husband' )
+my_husband_height = input('height of my husband' )
+my_husband_weight = input('weight of my husband' )
+my_husband_eyes = input('eyes color of my husband' )
+my_husband_hair = input('hair color of my husband' )
+my_husband_behaviors = input('behaviors of my husband' )
+print(f"i want to tell you about my husband his name is {my_husband_name.upper()}.He's {my_husband_height} cm tall with weight {my_husband_weight} kg \n.Inshort he is twice mine weight.his eyes{my_husband_eyes} which similar to our little cat.Don't tell him. \nHis hair is long but he lost half part , you know what i mean with the color{my_husband_hair}.\nHe's behavior is {my_husband_behaviors}.i hope you want to know about his age, i wonder to skip ummmm ok here it is. he is {my_husband_age}." )
