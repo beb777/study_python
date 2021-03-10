@@ -7,6 +7,7 @@ x = 'alex'
 print(x)
 y = 'mic'
 print(y)
+cold = True
 a = b = c = 5.6 # chained Assignment
 print(a, b, c)
 d, e = 1, 0 # multiple assignment
@@ -19,4 +20,5 @@ print(type(x))
 print(type(a))
 print(type(d))
 print(type(y))
+print(type(cold))
 print('______________________________')
