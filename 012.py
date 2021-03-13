@@ -47,8 +47,18 @@ for num in range(1,5):
 else:
     print('loop time ')
 print('____________________')
-
-
+#adding a list using for loop{diplaying a sequence }
+result = 0
+for number in range(1,10,2):
+    result += number
+    print(result)# display listing with there sum
+print(result)# display final result
+print('____________________')
+result = 0
+number = [2, 4, 6, 8, 10]
+for num in number:
+    result += num
+print(result)
 
 
 
