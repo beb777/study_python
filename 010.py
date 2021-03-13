@@ -21,8 +21,9 @@ customer = {
     'age': 25,
     'new': True
 }
+print(customer.items())# display using array
 print(customer['age'])
-print(customer['phone'])
+#print(customer['phone'])
 print(customer.get('phone'))
 print(customer.get('phone', 'defult none'))
 print('_______________________________________')
