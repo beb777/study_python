@@ -28,6 +28,13 @@ if x % 2 == 0:
 
 print('_______________________________________')
 #if else statement
+number = int(input('input any number: '))
+if number > 0:
+    print(f"a {number} is a positive number")
+elif number < 0:
+    print(f"a {number} is negative number")
+else:
+    print(f"a {number} is neither positive nor negative")
 
 
 print('________________________________________________________')
