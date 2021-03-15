@@ -30,6 +30,16 @@ while number <= 8:
 print('_________________________________________')
 # Executing an infinite loop
 # while 1==1:
-#    print("Looping......") 
+#    print("Looping......")
 
 print('_________________________________________')
+x = 1
+while x <= 6:
+    print('B' * x)
+    x += 1
+
+print('_________________________________________')
+x =6
+while x >= 1:
+    print('^' * x)
+    x -= 1
