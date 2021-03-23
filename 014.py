@@ -28,6 +28,9 @@ summation()
 print('_____________________________________________')
 
 
+print('_____________________________________________')
+
+
 def n_sum(n):
     pass
 
@@ -40,3 +43,9 @@ def amount(principal, rate, time):
 total = amount(100, 6, 22)
 print(total)
 
+print('_____________________________________________')
+
+def return_value():
+    return 'welcome to python'
+
+print(return_value().title())
